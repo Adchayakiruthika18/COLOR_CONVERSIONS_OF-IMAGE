@@ -49,13 +49,9 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ``` 
  
-
 ### OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/6be59e60-ce86-45d7-97fb-87a8f7d34a6f)
-
-
- 
 
 ### 2.) Draw Shapes and Add Text:
 i)Draw a line from the top-left to the bottom-right of the image.
@@ -73,15 +69,10 @@ cv2.destroyAllWindows()
 ```
 <br>
 <br>
-
-
 ### OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/e3a27bac-a61b-4752-b52a-07bf4cda0dac)
 
-
-
- 
 ### ii)Draw Shapes and Add Text
 ```Python
 
@@ -98,15 +89,10 @@ cv2.destroyAllWindows()
 <br>
 <br>
 
-
 ### OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/834c5b6c-aef6-4101-8286-aefc8833a112)
 
-
-
-
-      
 ### iii)Draw a rectangle around a specific region of interest in the image.
 ```Python
 
@@ -126,12 +112,8 @@ cv2.destroyAllWindows()
 
 ### OUTPUT:
 
-![image](https://github.com/user-attachments/assets/f01cb346-e7e6-4328-9b58-544e11dd8b3e)
+![image](https://github.com/user-attachments/assets/f01cb346-e7e6-4328-9b58-544e11dd8b
 
-
-
-
-      
 ### iv)Add the text "OpenCV Drawing" at the top-left corner of the image.
 
  ```Python
@@ -154,13 +136,9 @@ cv2.destroyAllWindows()
 <br>
 <br>
 
-    
 ### OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/d22ba7ea-836d-4d0c-a1e0-7737fe1f89c3)
-
-
-
 
 ### 3)Image Color Conversion
 i)Convert the image from RGB to HSV and display it.
@@ -175,8 +153,6 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
-
-
 ### OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/0f756ccf-6676-47f4-8efa-09cd8e327f4c)
@@ -195,8 +171,6 @@ cv2.destroyAllWindows()
 ### Output:
 ![image](https://github.com/user-attachments/assets/94e40033-ac7e-4c26-b212-de969150c960)
 
-
-
 #### iii.)Convert the image from RGB to YCrCb and display it.
 ```Python
 import cv2
@@ -210,7 +184,6 @@ cv2.destroyAllWindows()
 ```
 ### Output:
 ![image](https://github.com/user-attachments/assets/91a532c1-45a8-492f-bd45-1b06811261f4)
-
 
 #### iv.)Convert the HSV image back to RGB and display it.
 ```Python
@@ -249,10 +222,7 @@ cv2.destroyAllWindows()
 
 ![image](https://github.com/user-attachments/assets/f7f4945d-e95a-4f30-97c7-8753fcdfa6dc)
 
-
-
 ![image](https://github.com/user-attachments/assets/94468ffb-9d13-4c06-b638-43b2e7603139)
-
 
 ## 5. Image Resizing:
 ```Python
@@ -292,9 +262,6 @@ cv2.destroyAllWindows()
 ### Output:
 ![image](https://github.com/user-attachments/assets/ebd2f7f8-dda2-4d2f-954c-8512bd153f0c)
 
-
-
-
 ## 7.Image Flipping:
 i.)Flip the original image horizontally and display it.
 ```Python
@@ -314,8 +281,6 @@ cv2.destroyAllWindows()
 ### Output:
 
 ![image](https://github.com/user-attachments/assets/ad30a5d5-5730-4ef7-b360-96307395457e)
-
-
 
 #### ii.)Flip the original image vertically and display it.
 
@@ -337,7 +302,6 @@ cv2.destroyAllWindows()
 ### Output:
 
 ![image](https://github.com/user-attachments/assets/082a4875-1de0-42f8-aa4d-103f14b3f531)
-
 
 ## 8. Write and Save the Modified Image:
 ```Python
