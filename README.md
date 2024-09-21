@@ -112,7 +112,8 @@ cv2.destroyAllWindows()
 
 ### OUTPUT:
 
-![image](https://github.com/user-attachments/assets/f01cb346-e7e6-4328-9b58-544e11dd8b
+![image](https://github.com/user-attachments/assets/8b560741-f4f2-4556-94d8-03b215646b22)
+
 
 ### iv)Add the text "OpenCV Drawing" at the top-left corner of the image.
 
