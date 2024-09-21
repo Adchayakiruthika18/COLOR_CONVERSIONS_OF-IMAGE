@@ -223,6 +223,7 @@ cv2.destroyAllWindows()
 
 ![image](https://github.com/user-attachments/assets/f7f4945d-e95a-4f30-97c7-8753fcdfa6dc)
 
+
 ![image](https://github.com/user-attachments/assets/94468ffb-9d13-4c06-b638-43b2e7603139)
 
 ## 5. Image Resizing:
